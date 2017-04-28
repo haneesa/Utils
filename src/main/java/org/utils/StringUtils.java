@@ -2,7 +2,8 @@ package org.utils;
 
 public class StringUtils {
 
-	public static String mask(String original, boolean unused) {
+	public static String mask(String original) {
+		// TODO
 		String masked = null;
 		if (original != null) {
 			masked = original.replaceAll(".", "*");
