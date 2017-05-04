@@ -7,7 +7,7 @@ public class StringUtils {
 		String masked = null;
 		if (original != null) {
 			masked = original.replaceAll(".", "*");
-		}
+		} 
 		return masked;
 	}
 
