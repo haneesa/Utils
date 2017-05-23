@@ -3,3 +3,6 @@
 # Utils
 Static utility functionalities for 
 1. String
+
+
+You may find PRs which is against the coding standards, as this project is created to check the behaviour of codacy as review tool. 
